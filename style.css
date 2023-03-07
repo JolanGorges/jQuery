@@ -1,0 +1,17 @@
+body {
+    background-color: #24292e;
+    color: #fff;
+}
+
+#containerMvt {
+    width: 400px;
+    height: 400px;
+    background-color: green;
+}
+
+#sqMvt {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-color: red;
+}
